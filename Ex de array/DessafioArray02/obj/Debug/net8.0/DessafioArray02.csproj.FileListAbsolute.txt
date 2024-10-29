@@ -1,0 +1,7 @@
+C:\Users\47540013893\Desktop\Back-End\DessafioArray02\obj\Debug\net8.0\DessafioArray02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47540013893\Desktop\Back-End\DessafioArray02\obj\Debug\net8.0\DessafioArray02.AssemblyInfoInputs.cache
+C:\Users\47540013893\Desktop\Back-End\DessafioArray02\obj\Debug\net8.0\DessafioArray02.AssemblyInfo.cs
+C:\Users\47540013893\Desktop\Back-End\DessafioArray02\obj\Debug\net8.0\DessafioArray02.csproj.CoreCompileInputs.cache
+C:\Users\47540013893\Desktop\Back-End\DessafioArray02\obj\Debug\net8.0\DessafioArray02.sourcelink.json
+C:\Users\47540013893\Desktop\Back-End\DessafioArray02\obj\Debug\net8.0\DessafioArray02.dll
+C:\Users\47540013893\Desktop\Back-End\DessafioArray02\obj\Debug\net8.0\DessafioArray02.pdb

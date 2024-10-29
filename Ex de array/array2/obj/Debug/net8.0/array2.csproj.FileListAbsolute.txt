@@ -1,0 +1,7 @@
+C:\Users\47540013893\Desktop\Back-End\Ex de array\array2\obj\Debug\net8.0\array2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47540013893\Desktop\Back-End\Ex de array\array2\obj\Debug\net8.0\array2.AssemblyInfoInputs.cache
+C:\Users\47540013893\Desktop\Back-End\Ex de array\array2\obj\Debug\net8.0\array2.AssemblyInfo.cs
+C:\Users\47540013893\Desktop\Back-End\Ex de array\array2\obj\Debug\net8.0\array2.csproj.CoreCompileInputs.cache
+C:\Users\47540013893\Desktop\Back-End\Ex de array\array2\obj\Debug\net8.0\array2.sourcelink.json
+C:\Users\47540013893\Desktop\Back-End\Ex de array\array2\obj\Debug\net8.0\array2.dll
+C:\Users\47540013893\Desktop\Back-End\Ex de array\array2\obj\Debug\net8.0\array2.pdb
