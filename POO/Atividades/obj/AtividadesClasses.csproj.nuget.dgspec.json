@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\47540013893\\Desktop\\Back-End\\POO\\ClasseObjeto\\Classe\\Classe.csproj": {}
+    "C:\\Users\\47540013893\\Desktop\\Back-End\\POO\\Atividades\\AtividadesClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\47540013893\\Desktop\\Back-End\\POO\\ClasseObjeto\\Classe\\Classe.csproj": {
+    "C:\\Users\\47540013893\\Desktop\\Back-End\\POO\\Atividades\\AtividadesClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\47540013893\\Desktop\\Back-End\\POO\\ClasseObjeto\\Classe\\Classe.csproj",
-        "projectName": "Classe",
-        "projectPath": "C:\\Users\\47540013893\\Desktop\\Back-End\\POO\\ClasseObjeto\\Classe\\Classe.csproj",
+        "projectUniqueName": "C:\\Users\\47540013893\\Desktop\\Back-End\\POO\\Atividades\\AtividadesClasses.csproj",
+        "projectName": "AtividadesClasses",
+        "projectPath": "C:\\Users\\47540013893\\Desktop\\Back-End\\POO\\Atividades\\AtividadesClasses.csproj",
         "packagesPath": "C:\\Users\\47540013893\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\47540013893\\Desktop\\Back-End\\POO\\ClasseObjeto\\Classe\\obj\\",
+        "outputPath": "C:\\Users\\47540013893\\Desktop\\Back-End\\POO\\Atividades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

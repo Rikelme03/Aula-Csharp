@@ -5,27 +5,31 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace Calculator.Calcular
+
 {
     public class Calcular
     {
-        public float numero1 = 0;
+        public float numero1 = 0,numero2 = 0 ;
 
-        public float numero2 = 0 ;
-        public void Somar(float valor)
+        public void Somar()
         {
-           valor = numero1 + numero2 ;
+           float resultado = numero1 + numero2 ;
+           Console.WriteLine($" O resultado da conta e: {resultado}");
         }
-        public void Subtracao (float valor)
+        public void Subtracao ()
         {
-            valor = numero1 - numero2 ;
+            float resultado = numero1 - numero2 ;
+            Console.WriteLine($"    O resultado da conta e: {resultado}");
         }
-        public void Divisao (float valor)
+        public void Divisao ()
         {
-            valor = numero1 / numero2 ;
+            float resultado = numero1 / numero2 ;
+            Console.WriteLine($"    O resultado da conta e: {resultado}");
         }
-        public void Multiplicacao (float valor)
+        public void Multiplicacao ()
         {
-            valor = numero1 * numero2;
-        }
-    }
-}
+            float resultado = numero1 * numero2;
+            Console.WriteLine($"    O resultado da conta e: {resultado}");
+        }   
+    } 
+} 

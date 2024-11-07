@@ -1,50 +1,44 @@
-﻿using System.Data.Common;
+﻿using System.Diagnostics.Contracts;
+using Calculator.Calcular;
 using Calculator;
 
-Calculando resultado = new Calculando;
+Calcular calc = new Calcular();
+
+Console.WriteLine($"Bem Vindo a calculadora");
+
+Console.Write($"Digite o Primeiro Número: ");
+float numero1 = float.Parse(Console.ReadLine()!);
+
+Console.Write($"Digite o Segundo Número: ");
+float numero2 = float.Parse(Console.ReadLine()!);
+
+calc.numero1 = numero1;
+calc.numero2 = numero2;
 
 Console.WriteLine(@"
-╔═══════════════╗
-   Bem - Vindo
-╚═══════════════╝");
+Deseja fazer qual Operação?
+    1)somar
+    2)subtração
+    3)Multiplicação
+    4)Divisão");
+Console.Write($"    Opção: ");
+string opcao = Console.ReadLine()!;
+Console.WriteLine();
 
-Console.WriteLine($"Digite o primeiro numero! :");
-float n1 = float.Parse(Console.ReadLine());
-Console.WriteLine($"");
-
-Console.WriteLine($"Digite o primeiro numero! :");
-float n2 = float.Parse(Console.ReadLine());
-Console.WriteLine($"");
-
-Console.WriteLine(@"
-╔═══════════════╗
-   Bem - Vindo
-╚═══════════════╝");
-
-
-Console.WriteLine(
-    @"Esolha uma opcao abaixo ! 
-    1) Somar 
-    2) Subtrair
-    3) Divisao
-    4) Multiplicacao");
-
-string Opcao = (Console.ReadLine());
-
-if (Opcao == "1")
+if (opcao == "1")
 {
-    Console.WriteLine($"Resultado da soma{Somar}");
-    
-} 
+    calc.Somar();
 
-else if (Opcao == "2"){
-    Console.WriteLine($"Resultado da Subtracao{Subtracao}");
-} 
-
- else if (Opcao == "3"){
-    Console.WriteLine($"Resultado da Divisao{Divisao}");
-}  
-
-else {
-    Console.WriteLine($"Resultado da Multiplicacao{Multiplicacao}");
-}  
+}
+else if (opcao == "2")
+{
+    calc.Subtracao();
+}
+else if (opcao == "3")
+{
+    calc.Multiplicacao();
+}
+else
+{
+    calc.Divisao();
+}
