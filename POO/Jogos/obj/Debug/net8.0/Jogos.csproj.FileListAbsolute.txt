@@ -1,0 +1,15 @@
+C:\Users\47540013893\Desktop\Back-End\POO\Jogos\bin\Debug\net8.0\Jogos.exe
+C:\Users\47540013893\Desktop\Back-End\POO\Jogos\bin\Debug\net8.0\Jogos.deps.json
+C:\Users\47540013893\Desktop\Back-End\POO\Jogos\bin\Debug\net8.0\Jogos.runtimeconfig.json
+C:\Users\47540013893\Desktop\Back-End\POO\Jogos\bin\Debug\net8.0\Jogos.dll
+C:\Users\47540013893\Desktop\Back-End\POO\Jogos\bin\Debug\net8.0\Jogos.pdb
+C:\Users\47540013893\Desktop\Back-End\POO\Jogos\obj\Debug\net8.0\Jogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47540013893\Desktop\Back-End\POO\Jogos\obj\Debug\net8.0\Jogos.AssemblyInfoInputs.cache
+C:\Users\47540013893\Desktop\Back-End\POO\Jogos\obj\Debug\net8.0\Jogos.AssemblyInfo.cs
+C:\Users\47540013893\Desktop\Back-End\POO\Jogos\obj\Debug\net8.0\Jogos.csproj.CoreCompileInputs.cache
+C:\Users\47540013893\Desktop\Back-End\POO\Jogos\obj\Debug\net8.0\Jogos.sourcelink.json
+C:\Users\47540013893\Desktop\Back-End\POO\Jogos\obj\Debug\net8.0\Jogos.dll
+C:\Users\47540013893\Desktop\Back-End\POO\Jogos\obj\Debug\net8.0\refint\Jogos.dll
+C:\Users\47540013893\Desktop\Back-End\POO\Jogos\obj\Debug\net8.0\Jogos.pdb
+C:\Users\47540013893\Desktop\Back-End\POO\Jogos\obj\Debug\net8.0\Jogos.genruntimeconfig.cache
+C:\Users\47540013893\Desktop\Back-End\POO\Jogos\obj\Debug\net8.0\ref\Jogos.dll
