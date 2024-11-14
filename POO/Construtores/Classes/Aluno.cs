@@ -3,39 +3,48 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Construtores.Classes;
-    public class Aluno
+namespace Construtores.Classes
+{
+    public class aluno2 
     {
-         public string Nome { get; set; }
-        public string Curso { get; set; }
-        public int Idade { get; set; }
-        public float Cpf { get; set; }
+        public string Nome;
 
+        public int CPF;
 
-    public Aluno(string no, string cu, int id, float cp){
+        public int Idade;
 
-        Nome = no;
-        Curso = cu;
-        Idade = id;
-        Cpf = cp;
+        public string Curso;
 
-    }
+        public aluno2 ( ) { }
+        public aluno2(string _chuchu)
+        {
+            Nome = _chuchu;
 
-    public void ExibirDados()
-    {
-        Console.WriteLine(@$"
-        Nome do Aluno: {Nome}
-        Nome do curso: {Curso}
-        Idade do aluno: {Idade}
-        CPF do aluno: {Cpf}
-        ");
-        Console.WriteLine(@"
+        }
+
+        public aluno2(string _nome,int _cpf){
+            Nome = _nome;
+            CPF = _cpf;
+        }
+
+         public void ExibirAluno()
+        {
+            Console.WriteLine(@$"
+            Nome: {Nome}
+            Idade: {Idade}
+            Curso: {Curso}
+            CPF:{CPF}");
+            
+            Console.WriteLine(@"
         
         *-----------------------------*
         |  Finalizado com sucesso 👌 |
         *-----------------------------*
         
         ");
+        }
+    }
+}
         
-}
-}
+        
+

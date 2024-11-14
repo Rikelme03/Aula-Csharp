@@ -1,5 +1,30 @@
 ﻿using  Construtores.Classes;
 
+
+aluno2 Igao = new aluno2("Igao");
+Igao.CPF = 6969;
+
+Console.WriteLine(Igao.Nome);
+Console.WriteLine(Igao.CPF);
+
+aluno2 Bryan = new aluno2("Bryan");
+Bryan.CPF = 6969;
+
+Console.WriteLine(Bryan.Nome);
+Console.WriteLine(Bryan.CPF);
+
+aluno2 roberto = new aluno2("Roberto");
+roberto.CPF = 1234;
+
+Console.WriteLine(roberto.Nome);
+Console.WriteLine(roberto.CPF);
+
+aluno2 spadaMen = new aluno2("Herik Spada", 55920);
+Console.WriteLine(spadaMen.Nome);
+Console.WriteLine(spadaMen.CPF);
+
+
+
 // Console.WriteLine(@"
 // ⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 // ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀   ⣠⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -42,45 +67,7 @@
 //     Console.WriteLine($"Jogo: {Jogo.Nome}");  
 // }
 
-Jogo opcao = new Jogo;
 
-do
-{
-
-Console.Write(@$"
-    
-    *--------------------------*
-    |     Menu de opcoes 😁   |
-    *--------------------------*
-    |    1)Cadastrar Jogo      |
-    |    2)Listar Jogos        |
-    |    0)Sair                |
-    *--------------------------*
-    RESPOSTA:
-    ");
- opcao = Console.ReadLine();
-
- if (opcao == "1")
-{  
-
-    
-
-    
-} else if (opcao == "2")
-{
-    
-
-
-} else if (opcao == "3"){
-
-
-
-} else {
-    Console.WriteLine($"Opcao inavlida ! 😒");
-}
-
-
-} while (opcao == "0");
 
 
 
