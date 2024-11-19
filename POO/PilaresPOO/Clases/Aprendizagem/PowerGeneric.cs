@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace PilaresPOO.Clases
+namespace PilaresPOO.Clases.Aprendizagem
 {
-    public class Moto
+    public class PowerGeneric : Personagem  
     {
-
+        
     }
 }
